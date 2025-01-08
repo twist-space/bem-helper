@@ -1,0 +1,14 @@
+# Package Manager
+node_modules
+
+# System
+.DS_Store
+
+# Bundle
+dist
+es
+lib
+
+# ide
+.vscode
+.idea
