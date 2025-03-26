@@ -104,3 +104,5 @@ export function useBEM<B extends string, N extends string>(
     snv: (v, s) => scv(`${n(true)}-${v}`, s),
   };
 }
+
+export type { BEM, NBEM };
